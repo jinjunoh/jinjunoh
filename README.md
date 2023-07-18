@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm JJ</h1>
 <h3 align="center">An aspiring Software Engineer at Austin, Texas</h3>
 
-- 🔭 I’m currently working on [SNSTodo Mobile Application](https://github.com/jinjunoh/Express-SNSTodo)
+- 🔭 I’m currently working on [BeReal Clone + Task Manager Backend](https://github.com/jinjunoh/BeReal-Clone-Tasks-Manager-Backend)
 
-- 🌱 I’m currently learning **Express.js and React.js**
+- 🌱 I’m currently learning **Express.js and React Native**
 
 - 👨‍💻 All of my projects are available at [https://jinjunoh.github.io/website/](https://jinjunoh.github.io/website/)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jinjunoh2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OQRHVV-N5VjExNp8I-TWuXsczOCY21sN/view?usp=sharing](https://drive.google.com/file/d/1OQRHVV-N5VjExNp8I-TWuXsczOCY21sN/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1OQRHVV-N5VjExNp8I-TWuXsczOCY21sN/view?usp=sharing](https://drive.google.com/file/d/1B6A8ppcCcjACB8ILrZr2aZL4Swzetzck/view?usp=sharing)
 
 - ⚡ Fun fact **I'vs experienced 28hr layover at LaGuardia Airport**
 
