@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [BeReal Clone + Task Manager Backend](https://github.com/jinjunoh/BeReal-Clone-Tasks-Manager-Backend)
 
-- 🌱 I’m currently learning **Express.js and React Native**
+- 🌱 I’m currently learning **Express.js and GPT API**
 
 - 👨‍💻 All of my projects are available at [https://jinjunoh.github.io/website/](https://jinjunoh.github.io/website/)
 
-- 💬 Ask me about **Java, C/C++, and AWS Services**
+- 💬 Ask me about **JavaScript, Java, C/C++, and AWS Services**
 
 - 📫 How to reach me **jinjunoh2@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1OQRHVV-N5VjExNp8I-TWuXsczOCY21sN/view?usp=sharing](https://drive.google.com/file/d/1B6A8ppcCcjACB8ILrZr2aZL4Swzetzck/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1OQRHVV-N5VjExNp8I-TWuXsczOCY21sN/view?usp=sharing](https://drive.google.com/file/d/1B6A8ppcCcjACB8ILrZr2aZL4Swzetzck/view?usp=sharing)]
 
 - ⚡ Fun fact **I'vs experienced 28hr layover at LaGuardia Airport**
 
