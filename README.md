@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm JJ</h1>
 <h3 align="center">An aspiring Software Engineer at Austin, Texas</h3>
 
+-  I'm an AWS Certified Cloud Practitioner [https://www.credly.com/badges/96dd8522-61c6-4bed-b468-ed71ff003dd8/public_url](https://www.credly.com/badges/96dd8522-61c6-4bed-b468-ed71ff003dd8/public_url)
+
 - 🔭 I’m currently working on [BeReal Clone + Task Manager Backend](https://github.com/jinjunoh/BeReal-Clone-Tasks-Manager-Backend)
 
 - 🌱 I’m currently learning **Express.js and GPT API**
@@ -18,6 +20,7 @@
 ## tasks
 
 - [x] Born
+- [x] AWS Certified Cloud Practitioner
 - [ ] Get a job
 - [ ] Marry
 - [ ] Have children
