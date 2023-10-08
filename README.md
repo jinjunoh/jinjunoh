@@ -4,11 +4,11 @@
 
 -  I'm an AWS Certified Cloud Practitioner [https://www.credly.com/badges/96dd8522-61c6-4bed-b468-ed71ff003dd8/public_url](https://www.credly.com/badges/96dd8522-61c6-4bed-b468-ed71ff003dd8/public_url)
 
-- 🔭 I’m currently working on [BeReal Clone + Task Manager Backend](https://github.com/jinjunoh/BeReal-Clone-Tasks-Manager-Backend)
+- 🔭 I’m currently working on [Real-Time Song Recommendation by User Location]()
 
-- 🌱 I’m currently learning **Express.js and GPT API**
+- 🌱 I’m currently learning **TensorFlow and PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [https://jinjunoh.github.io/website/](https://jinjunoh.github.io/website/)
+- 👨‍💻 My journey is available at [https://jinjunoh.github.io/website/](https://jinjunoh.github.io/website/)
 
 - 💬 Ask me about **JavaScript, Java, C/C++, and AWS Services**
 
@@ -22,7 +22,7 @@
 
 - [x] Born
 - [x] AWS Certified Cloud Practitioner
-- [ ] Get a job
+- [x] Get a job
 - [ ] Marry
 - [ ] Have children
 - [ ] Die
