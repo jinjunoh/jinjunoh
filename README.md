@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm JJ</h1>
 <h3 align="center">An aspiring Software Engineer at Austin, Texas</h3>
 
--  I'm an AWS Certified Cloud Practitioner [https://www.credly.com/badges/96dd8522-61c6-4bed-b468-ed71ff003dd8/public_url](https://www.credly.com/badges/96dd8522-61c6-4bed-b468-ed71ff003dd8/public_url)
+-  I'm an AWS Certified Cloud Practitioner [Credly Badge](https://www.credly.com/badges/96dd8522-61c6-4bed-b468-ed71ff003dd8/public_url)
 
-- 🔭 I’m currently working on [Real-Time Song Recommendation by User Location]() and [HiFi](https://github.com/jinjunoh/HiFi)
+- 🔭 I’m currently working on [Luminescence Song Recommender]() and [HiFi](https://github.com/jinjunoh/HiFi)
 
 - 🌱 I’m currently learning **TensorFlow and PostgreSQL**
 
 - 👨‍💻 My journey is available at [https://jinjunoh.github.io/website/](https://jinjunoh.github.io/website/)
 
-- 💬 Ask me about **Node.js, Java, C/C++, and AWS Services**
+- 💬 Ask me about **Node.js, Java, C/C++, and AWS**
 
 - 📫 How to reach me **jinjunoh2@gmail.com**
 
