@@ -4,13 +4,13 @@
 
 -  I'm an AWS Certified Cloud Practitioner [https://www.credly.com/badges/96dd8522-61c6-4bed-b468-ed71ff003dd8/public_url](https://www.credly.com/badges/96dd8522-61c6-4bed-b468-ed71ff003dd8/public_url)
 
-- 🔭 I’m currently working on [Real-Time Song Recommendation by User Location]()
+- 🔭 I’m currently working on [Real-Time Song Recommendation by User Location]() and [HiFi](https://github.com/jinjunoh/HiFi)
 
 - 🌱 I’m currently learning **TensorFlow and PostgreSQL**
 
 - 👨‍💻 My journey is available at [https://jinjunoh.github.io/website/](https://jinjunoh.github.io/website/)
 
-- 💬 Ask me about **JavaScript, Java, C/C++, and AWS Services**
+- 💬 Ask me about **Node.js, Java, C/C++, and AWS Services**
 
 - 📫 How to reach me **jinjunoh2@gmail.com**
 
@@ -23,6 +23,7 @@
 - [x] Born
 - [x] AWS Certified Cloud Practitioner
 - [x] Get a job
+- [x] Win a hackerthon
 - [ ] Marry
 - [ ] Have children
 - [ ] Die
