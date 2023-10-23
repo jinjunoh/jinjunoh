@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **jinjunoh2@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1FIUqXGBJ9TnYeOflKY3xZMQbL_5fzD2_/view?usp=sharing](https://drive.google.com/file/d/1FIUqXGBJ9TnYeOflKY3xZMQbL_5fzD2_/view?usp=sharing)]
+- 📄 Know about my experiences [[Resume]([https://drive.google.com/file/d/1FIUqXGBJ9TnYeOflKY3xZMQbL_5fzD2_/view?usp=sharing](https://drive.google.com/file/d/1dMkkffj9K28c_ni8QaEBkcRe6bRUoy1t/view?usp=share_link))]
 
 - ⚡ Fun fact **I'vs experienced 28hr layover at LaGuardia Airport**
 
