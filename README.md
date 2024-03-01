@@ -4,17 +4,15 @@
 
 -  I'm an AWS Certified Cloud Practitioner [Credly Badge](https://www.credly.com/badges/96dd8522-61c6-4bed-b468-ed71ff003dd8/public_url)
 
-- 🔭 I’m currently working on [Luminescence Song Recommender]() and [HiFi](https://github.com/jinjunoh/HiFi)
+- 🔭 I’m currently working on [Synapse-web-monorepo](https://github.com/jinjunoh/synapse-web-monorepo) and [SynapseWebClient](https://github.com/jinjunoh/SynapseWebClient)
 
-- 🌱 I’m currently learning **TensorFlow and PostgreSQL**
+- 🌱 I’m currently learning **TypeScript and PostgreSQL**
 
-- 👨‍💻 My journey is available at [https://jinjunoh.github.io/website/](https://jinjunoh.github.io/website/)
+- 👨‍💻 My journey is available at [Website](https://chat-perfoilio-jinjunoh-jinjunoh.vercel.app/)
 
 - 💬 Ask me about **Node.js, Java, C/C++, and AWS**
 
 - 📫 How to reach me **jinjunoh2@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dMkkffj9K28c_ni8QaEBkcRe6bRUoy1t/view?usp=share_link)
 
 - ⚡ Fun fact **I'vs experienced 28hr layover at LaGuardia Airport**
 
