@@ -4,7 +4,7 @@
 
 -  I'm an AWS Certified Cloud Practitioner [Credly Badge](https://www.credly.com/badges/96dd8522-61c6-4bed-b468-ed71ff003dd8/public_url)
 
-- 🔭 I’m currently working on [Synapse-web-monorepo](https://github.com/jinjunoh/synapse-web-monorepo) and [SynapseWebClient](https://github.com/jinjunoh/SynapseWebClient)
+- 🔭 In the past, I worked on [Synapse-web-monorepo](https://github.com/jinjunoh/synapse-web-monorepo) and [SynapseWebClient](https://github.com/jinjunoh/SynapseWebClient) to maintain and improve Sage Bionetwork's GWT and react client. I've also made contributions to [Synapse-Stack-Builder](https://github.com/jinjunoh/Synapse-Stack-Builder) where I implemented feature flags for Synapse's clientside applications utilizing AWS AppConfig and provisioned the necessary AWS infrastructure using Infrastructure as Code (IaC) with velocity CloudFormation templates. Moreover, I implemented real-time rollbacks for over 35 experimental features that are polled, cached, and pushed to the company’s Saas applications in the Java Servlet layer, enabling the team to quickly disable a feature in production if any issues were detected.
 
 - 🌱 I’m currently learning **TypeScript and PostgreSQL**
 
