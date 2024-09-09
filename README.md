@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **TypeScript and PostgreSQL**
 
-- 👨‍💻 My journey is available at [Website](https://chat-perfoilio-jinjunoh-jinjunoh.vercel.app/)
+- 👨‍💻 My journey is available at [Website](https://chat-perfoilio-jinjunoh.vercel.app/)
 
 - 💬 Ask me about **Node.js, Java, C/C++, and AWS**
 
